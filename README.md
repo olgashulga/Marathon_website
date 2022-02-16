@@ -1,4 +1,4 @@
-# Marathone_website
+# Marathon_website
 
 Landing page.
 https://olgashulga.github.io/Marathone_website/
